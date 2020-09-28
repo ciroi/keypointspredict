@@ -1,5 +1,5 @@
 ## 说明
-	利用CNN网络来进行人脸关键点检测，采用了21点的预测方案,并使用opencv的
+	利用CNN网络来进行人脸关键点检测，采用了21点的预测方案,并使用opencv的级联分类器进行人脸定位
 
 ## Installation
 	pip install torchvision
