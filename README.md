@@ -18,7 +18,7 @@
 
 ## Test
 	python .\detector.py --phase "test"
-<p align="center"><img src="output/test.png" width="480"\></p>
+<p align="center"><img src="output/test.png" width="112"\></p>
 	
 ## predict
 	python .\detector.py --phase "predict"
