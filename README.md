@@ -14,12 +14,12 @@
 
 ## Train
 	python .\detector.py --phase "train"
-	<p align="center"><img src="output/train.png" width="480"\></p>
+<p align="center"><img src="output/train.png" width="480"\></p>
 
 ## Test
 	python .\detector.py --phase "test"
-	<p align="center"><img src="output/test.png" width="480"\></p>
+<p align="center"><img src="output/test.png" width="480"\></p>
 	
-## Test
+## predict
 	python .\detector.py --phase "predict"
-	<p align="center"><img src="output/predict.png" width="480"\></p>
+<p align="center"><img src="output/predict.png" width="480"\></p>
